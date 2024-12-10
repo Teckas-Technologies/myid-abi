@@ -1,0 +1,31 @@
+.switchdex,
+.coinstore {
+    border: 0.75px solid #BBFDFF50;
+}
+
+.switchdex-logo {
+    background: radial-gradient(ellipse at center, #bbfdff36 0%, rgba(187, 253, 255, 0) 100%);
+    backdrop-filter: blur(150px);
+}
+
+.exchange-para {
+    color: #BBFDFF;
+}
+
+/* @media (min-width: 768px) { */
+.video-section {
+    border: 0.75px solid #737373;
+}
+
+/* } */
+
+.youtube-video {
+    background: url('/images/thumbnail.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.play-btn {
+    background: #BBFDFF;
+}

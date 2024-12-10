@@ -1,0 +1,41 @@
+.footer-outer {
+    padding: 1.27px;
+    background: linear-gradient(105.71deg, #000000 21.51%, rgba(187, 253, 255, 0.45) 78.49%);
+}
+@media (max-width: 768px) {
+    .footer-outer {
+        padding: 1.27px;
+        background: linear-gradient(334.79deg, #000000 26.57%, rgba(187, 253, 255, 0.45) 73.43%);
+    }
+}
+
+.info-box {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.03) 100%);
+}
+
+.footer-heading {
+    color: #BBFDFF;
+}
+
+.footer-para {
+    color: #929292;
+}
+
+.foo-span {
+    color: #BBFDFF;
+}
+
+.copy-right {
+    /* border-top: 0.75px solid #66666650; */
+    border-top: 0.75px solid #BBFDFF54
+}
+
+.copy-right h3 {
+    color: #ffffff;
+}
+
+@media (max-width: 768px) {
+    .copy-right h3 {
+        color: #909090;
+    }
+}

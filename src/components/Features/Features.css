@@ -1,0 +1,43 @@
+.features-heading {
+    color: #BBFDFF;
+}
+
+.para {
+    color: #ADADAD;
+}
+
+.outer {
+    /* background: linear-gradient(190.7deg, #000000 6.86%, #666666 93.14%); */
+    background: linear-gradient(190.7deg, #666666 6.86%, #000000 93.14%);
+    padding: 1.2px;
+}
+
+.feature-box {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.05) 100%);
+}
+
+.feature-title {
+    color: #BBFDFF;
+}
+
+.features-bottom {
+    background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, 0) 80%, #000000 100%), url('/images/features-bg.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.feb {
+    border: 0.75px solid #66666650;
+}
+
+.fim {
+    background: linear-gradient(180deg, #648182 0%, #000000 100%);
+}
+
+.features-bottom-mobile {
+    background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, 0) 80%, #000000 100%), url('/images/features-bg.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

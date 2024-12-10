@@ -1,0 +1,20 @@
+.connect-btn {
+    background: linear-gradient(90deg, #45A7AA 0%, #BBFDFF 100%);
+}
+
+.balance {
+    border: 1.27px solid #BBFDFF
+}
+
+.balance-text {
+    color: #BBFDFF;
+}
+
+.amount,
+.asset {
+    background: linear-gradient(180deg, #BBFDFF 0%, #45A7AA 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}

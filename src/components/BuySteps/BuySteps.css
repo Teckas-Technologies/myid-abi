@@ -1,0 +1,23 @@
+.buy-steps-center {
+    background:
+        radial-gradient(51.61% 50% at 50% 50%, rgba(0, 0, 0, 0) 0%, #000000 100%),
+        url('/images/buy-steps-bg.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.outer-line {
+    border-left: 1.27px solid #BBFDFF
+}
+
+.dot {
+    background-color: #BBFDFF;
+}
+
+.outer-line-u {
+    border: 1.27px solid;
+
+    border-image-source: linear-gradient(90deg, rgba(187, 253, 255, 0.45) 0%, rgba(187, 253, 255, 0.45) 85%, rgba(0, 0, 0, 0.45) 100%);
+
+}
